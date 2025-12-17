@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/L2DvGVJ-WoYAAAAd/childe-childe-fight.gif" alt="image"/>
+  <img src="https://i.postimg.cc/VNCnvR5p/2025-12-17-0zu-Kleki.png" alt="image"/>
 </p>
 
 
