@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://i.postimg.cc/VNCnvR5p/2025-12-17-0zu-Kleki.png" alt="image"/>
+  <img src="https://i.postimg.cc/65dgH7V0/2025-12-18-0xq-Kleki.png" alt="image"/>
 </p>
 
 
