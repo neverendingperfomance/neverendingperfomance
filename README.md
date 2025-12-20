@@ -5,9 +5,20 @@
 <p align="center">
   <img src="https://i.postimg.cc/dVRxDTHM/Untitled61.png"/>
 </p>
+
 <p align="center">
   <img src="https://i.postimg.cc/wBjYpV6X/IMG-1111.webp"/>
 </p>
+
+
+<div align="center">
+
+<a href="https://neverendingperformance.straw.page/">strawpage</a>&nbsp;&nbsp;✦&nbsp;&nbsp;
+<a href="https://polarstar.atabook.org/">atabook</a>&nbsp;&nbsp;✦&nbsp;&nbsp;
+<a href="https://rentry.co/angelanihilation">rentry</a>
+
+</div>
+
 
 
 
