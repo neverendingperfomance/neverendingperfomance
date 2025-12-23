@@ -20,9 +20,7 @@
   <img src="https://i.postimg.cc/NjwZ5Kqh/d1lfmwu-61e3b6cf-05cc-4368-8cd3-6f0c3aba6dfa.png"/>
   <img src="https://i.postimg.cc/SQD4MQmQ/tumblr-pu7idm-CVJe1xbgu08o5-100.png"/>
   <img src="https://i.postimg.cc/C5vk700f/Tumblr-l-166888680200085.jpg"/>
-  <img src="https://i.postimg.cc/yNBrWfm7/Tumblr-l-527326390733578.png"/>
-  
-</p>
+  </p>
 <div align="center">
 <p align="center">
   <img src="https://i.postimg.cc/SQZfzWbX/c8de1bda.png"/>
@@ -31,7 +29,6 @@
   <img src="https://i.postimg.cc/zG1h8twS/circusp.png"/>
   <img src="https://i.postimg.cc/RFLVMSw5/dd5wshy-bc647cc2-e9d1-4bff-8f7d-c56f171bb99f.gif"/>
   <img src="https://i.postimg.cc/Pf8nzrCt/c4b47f26.png"/>
-  <img src="https://i.postimg.cc/W3HkDW08/gotyaoi.png"/>
 </p>
 <div align="center">
 <p align="center">
@@ -41,7 +38,6 @@
   <img src="https://64.media.tumblr.com/becc3b16f0865b9dbe36d400a86a46a8/a4d79399669d38d4-3b/s100x200/8ec977f4e068c27f906c31357b2efcd8b866e9a6.gifv"/>
   <img src="https://64.media.tumblr.com/4a64721d8d355372622f3241d44d2b93/57ac81bdee30a3b1-bb/s100x200/002f0c3c51528b213b9792ecf7a243a846c69cb1.pnj"/>
   <img src="https://i.imgur.com/QNYIda6.gif"/>
-  <img src="https://i.postimg.cc/wTQmnYMs/the_hedgehog_way_stamp_by_lightningchaos2010_d4w2luf-fullview.png"/>
 </p>
 <div align="center">
 
