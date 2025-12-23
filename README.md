@@ -3,14 +3,8 @@
 
 
 <p align="center">
-  <img src="https://i.postimg.cc/dVRxDTHM/Untitled61.png"/>
+  <img src="https://i.postimg.cc/MH0Zx8yt/Untitled78-20251223105825.webp"/>
 </p>
-
-<p align="center">
-  <img src="https://i.postimg.cc/wBjYpV6X/IMG-1111.webp"/>
-</p>
-
-
 <div align="center">
 
 <a href="https://neverendingperformance.straw.page/">strawpage</a>&nbsp;&nbsp; &nbsp;&nbsp;
